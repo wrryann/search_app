@@ -1,6 +1,8 @@
 [package]
-name = "rust-test"
+name = "pokemon-search"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+krabby = "0.1.8"
+pokemon-rs = "1.6.3"
